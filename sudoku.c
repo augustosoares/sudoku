@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <pthread.h>
-#include <time.h>
 
 #define UNASSIGNED 0
 #define N 9
